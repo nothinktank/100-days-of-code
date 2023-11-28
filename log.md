@@ -23,7 +23,14 @@
 
 **Today's Progress**: I've started on Odin Project (motivation of mindset)
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** 
+
+### Day 2: Nov 28, Tuesday
+
+**Today's Progress**: I've started on Odin Project (motivation of mindset)
+
+**Thoughts** 
+
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
