@@ -27,7 +27,7 @@
 
 ### Day 2: Nov 28, Tuesday
 
-**Today's Progress**: I've started on Odin Project (motivation of mindset)
+**Today's Progress**: I've finished the website/webpage/web server basics and installed VS code and watched the tutorial
 
 **Thoughts** 
 
