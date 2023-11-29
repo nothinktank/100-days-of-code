@@ -31,6 +31,11 @@
 
 **Thoughts** 
 
+### Day 3: Nov 29, Wednesday
+
+**Today's Progress**: I've started on the Command Line tool training
+
+**Thoughts** 
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
