@@ -34,8 +34,8 @@
 ### Day 3: Nov 29, Wednesday
 
 **Today's Progress**: I've started on the Command Line tool training
-finished command line tool training
-installed git and paired SSH key with GitHub
+**finished command line tool training
+**installed git and paired SSH key with GitHub
 
 **Thoughts** 
 
