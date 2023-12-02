@@ -47,6 +47,17 @@
 
 **Thoughts** 
 
+### Day 5: Dec 1, Friday
+
+**Today's Progress**: I've started on basic HTML/CSS/Javascript portion
+
+**Thoughts** 
+
+### Day 6: Dec 2, Saturday (% complete: 40)
+
+**Today's Progress**: I've started on basic HTML and I know how to make a template for a webpage
+
+**Thoughts**
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
