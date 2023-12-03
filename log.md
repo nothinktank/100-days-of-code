@@ -58,6 +58,12 @@
 **Today's Progress**: I've started on basic HTML and I know how to make a template for a webpage
 
 **Thoughts**
+### Day 7: Dec 3, Sunday (% complete: 45)
+
+**Today's Progress**: finished intro to HTML
+made website: https://nothinktank.github.io/odin-recipes
+**Thoughts**
+
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
