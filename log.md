@@ -64,6 +64,18 @@
 made website: https://nothinktank.github.io/odin-recipes
 **Thoughts**
 
+### Day 8: Dec 4, Monday (% complete: 45)
+
+**Today's Progress**: finished lecture on CSS intro and learned about styling
+Didn't start the exercise
+**Thoughts**
+
+### Day 9: Dec 5, Tuesday (% complete: 47)
+
+**Today's Progress**: finished execises from CSS intro.
+
+**Thoughts**
+
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
