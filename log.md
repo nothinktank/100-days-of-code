@@ -78,9 +78,14 @@ Didn't start the exercise
 
 ### Day 10: Dec 6, Wednesday (% complete: 47)
 
-**Today's Progress**: Learning about Cascade in CSS
+**Today's Progress**: Learning about Cascade in CSS, 
+**what does cascade do
+**specificity and combining CSS selectors
+**how inheritance affects certain properties
 
 **Thoughts**
+
+
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
