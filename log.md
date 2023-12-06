@@ -58,16 +58,19 @@
 **Today's Progress**: I've started on basic HTML and I know how to make a template for a webpage
 
 **Thoughts**
+
 ### Day 7: Dec 3, Sunday (% complete: 45)
 
 **Today's Progress**: finished intro to HTML
 made website: https://nothinktank.github.io/odin-recipes
+
 **Thoughts**
 
 ### Day 8: Dec 4, Monday (% complete: 45)
 
 **Today's Progress**: finished lecture on CSS intro and learned about styling
 Didn't start the exercise
+
 **Thoughts**
 
 ### Day 9: Dec 5, Tuesday (% complete: 47)
@@ -79,8 +82,11 @@ Didn't start the exercise
 ### Day 10: Dec 6, Wednesday (% complete: 47)
 
 **Today's Progress**: Learning about Cascade in CSS, 
+
 **what does cascade do
+
 **specificity and combining CSS selectors
+
 **how inheritance affects certain properties
 
 **Thoughts**
