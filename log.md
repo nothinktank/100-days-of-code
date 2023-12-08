@@ -91,6 +91,23 @@ Didn't start the exercise
 
 **Thoughts**
 
+### Day 11: Dec 7, Thursday (% complete: 47)
+
+**Today's Progress**: inspecting elements in HTML & CSS 
+
+**started the course
+
+**hasn't started the assignment
+
+**Thoughts**
+
+### Day 12: Dec 8, Friday (% complete: 47)
+
+**Today's Progress**: inspecting elements in HTML & CSS 
+
+**Started the assignment
+
+**Thoughts**
 
 
 **Link(s) to work**
