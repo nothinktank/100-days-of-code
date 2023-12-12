@@ -109,7 +109,7 @@ Didn't start the exercise
 
 **Thoughts**
 
-### Day 13: Dec 11, Monday (% complete: 47)
+### Day 13: Dec 11, Monday (% complete: 52)
 
 **Today's Progress**: inspecting elements in HTML & CSS 
 
