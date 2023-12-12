@@ -109,6 +109,13 @@ Didn't start the exercise
 
 **Thoughts**
 
+### Day 13: Dec 11, Monday (% complete: 47)
+
+**Today's Progress**: inspecting elements in HTML & CSS 
+
+**completed the assignment
+
+**Thoughts**
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
