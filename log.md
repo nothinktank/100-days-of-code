@@ -135,9 +135,17 @@ Didn't start the exercise
 
 ### Day 16: Dec 14, Thursday (% complete: 58)
 
-**Today's Progress**: Intro to flexbox
+**Today's Progress**: Intro to flexbox, Growing and Shrinking
 
-**completed the lesson, no assignment
+**completed the lesson, no assignment for intro to flexbox, completed growing the shrinking assignment
+
+**Thoughts**
+
+### Day 17: Dec 15, Friday (% complete: )
+
+**Today's Progress**: 
+
+**
 
 **Thoughts**
 
