@@ -133,6 +133,14 @@ Didn't start the exercise
 
 **Thoughts**
 
+### Day 16: Dec 14, Thursday (% complete: 58)
+
+**Today's Progress**: Intro to flexbox
+
+**completed the lesson, no assignment
+
+**Thoughts**
+
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
