@@ -141,11 +141,11 @@ Didn't start the exercise
 
 **Thoughts**
 
-### Day 17: Dec 15, Friday (% complete: )
+### Day 17: Dec 15, Friday (% complete: 62)
 
-**Today's Progress**: 
+**Today's Progress**: Axes 
 
-**
+**completed assignment, learned flex direction: column/row
 
 **Thoughts**
 
