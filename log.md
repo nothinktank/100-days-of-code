@@ -149,6 +149,19 @@ Didn't start the exercise
 
 **Thoughts**
 
+### Day 18: Dec 16, Saturday (% complete: 62)
+
+**Today's Progress**: finish alignment lesson
+
+**started assignment
+
+### Day 19: Dec 17, Sunday (% complete: 62)
+
+**Today's Progress**: finish alignment lesson
+
+**complete assignment 05
+
+**Thoughts**
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
