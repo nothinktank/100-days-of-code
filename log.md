@@ -161,6 +161,18 @@ Didn't start the exercise
 
 **complete assignment 05
 
+### Day 20: Dec 18, Monday (% complete: 62)
+
+**Today's Progress**: finish alignment lesson
+
+**complete assignment 06
+
+### Day 21: Dec 19, Tuesday (% complete: 64)
+
+**Today's Progress**: finish alignment lesson
+
+**complete lesson assignment
+
 **Thoughts**
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
