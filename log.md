@@ -173,6 +173,14 @@ Didn't start the exercise
 
 **complete lesson assignment
 
+### Day 22: Jan 4, Thursday (% complete: 64)
+
+**Today's Progress**: finish flex final assignment, start JavaScript intro
+
+**complete lesson assignment
+
+
+
 **Thoughts**
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
