@@ -179,7 +179,17 @@ Didn't start the exercise
 
 **complete lesson assignment
 
+### Day 23: Jan 5, Friday (% complete: 64)
 
+**Today's Progress**: start JavaScript fundamentals 1
+
+**start lesson assignment
+
+### Day 24: Jan 6, Saturday (% complete: 68)
+
+**Today's Progress**: finish JavaScript fundamentals 1
+
+**start javascript fundamentals 2
 
 **Thoughts**
 **Link(s) to work**
