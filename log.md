@@ -191,6 +191,24 @@ Didn't start the exercise
 
 **start javascript fundamentals 2
 
+### Day 25: Jan 17, Wednesday (% complete: 68)
+
+**Today's Progress**: JS fundamentals part 2
+
+**Strings
+
+### Day 26: Jan 18, Thursday (% complete: 68)
+
+**Today's Progress**: finish JavaScript fundamentals 1
+
+**Strings
+
+### Day 27: Jan 19, Friday (% complete: 68)
+
+**Today's Progress**: finish JavaScript fundamentals 1
+
+**conditionals
+
 **Thoughts**
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
