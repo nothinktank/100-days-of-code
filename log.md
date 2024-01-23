@@ -209,6 +209,20 @@ Didn't start the exercise
 
 **conditionals
 
+
+### Day 28: Jan 21, Sunday (% complete: 68)
+
+**Today's Progress**: finish JavaScript fundamentals 1
+
+**elseif
+
+
+### Day 29: Jan 23, Tuesday (% complete: 68)
+
+**Today's Progress**: finish JavaScript fundamentals 1
+
+**case switch
+
 **Thoughts**
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
