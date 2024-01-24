@@ -223,6 +223,12 @@ Didn't start the exercise
 
 **case switch
 
+### Day 30: Jan 24, Wednesday (% complete: 70)
+
+**Today's Progress**: finish JavaScript fundamentals 2
+
+**Starting Javascript Developer tools
+
 **Thoughts**
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
