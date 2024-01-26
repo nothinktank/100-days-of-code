@@ -229,6 +229,12 @@ Didn't start the exercise
 
 **Starting Javascript Developer tools
 
+### Day 31: Jan 26, Friday (% complete: 72)
+
+**Today's Progress**: finished developer tools
+
+**Starting Javascript fundamentals 3
+
 **Thoughts**
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
