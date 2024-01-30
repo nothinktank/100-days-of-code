@@ -235,6 +235,18 @@ Didn't start the exercise
 
 **Starting Javascript fundamentals 3
 
+### Day 32: Jan 29, Friday (% complete: 72)
+
+**Today's Progress**: working on mdn for functions
+
+**
+
+### Day 33: Jan 30, Friday (% complete: 72)
+
+**Today's Progress**: working on mdn for functions
+
+**
+
 **Thoughts**
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
