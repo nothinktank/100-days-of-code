@@ -235,17 +235,22 @@ Didn't start the exercise
 
 **Starting Javascript fundamentals 3
 
-### Day 32: Jan 29, Friday (% complete: 72)
+### Day 32: Jan 29, Monday (% complete: 72)
 
 **Today's Progress**: working on mdn for functions
 
 **
 
-### Day 33: Jan 30, Friday (% complete: 72)
+### Day 33: Jan 30, Tuesday (% complete: 72)
 
 **Today's Progress**: working on mdn for functions
 
 **
+### Day 34: Jan 31, Wednesday (% complete: 72)
+
+**Today's Progress**: working on mdn for functions
+
+**finish lengthy MDN article lecture and 4 exercises
 
 **Thoughts**
 **Link(s) to work**
