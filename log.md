@@ -252,6 +252,11 @@ Didn't start the exercise
 
 **finish lengthy MDN article lecture and 4 exercises
 
+### Day 35: Feb 1, Thursday (% complete: 72)
+
+**Today's Progress**: working on number 4 for fundamentals 3
+
+**
 **Thoughts**
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
