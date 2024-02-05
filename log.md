@@ -268,7 +268,8 @@ Didn't start the exercise
 
 **Today's Progress**: working on number 5 for fundamentals 3
 
-**start number 5 link two
+**finish link for arrow functions
+
 **Thoughts**
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
