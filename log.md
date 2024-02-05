@@ -257,6 +257,18 @@ Didn't start the exercise
 **Today's Progress**: working on number 4 for fundamentals 3
 
 **
+
+### Day 36: Feb 4, Sunday (% complete: 72)
+
+**Today's Progress**: working on number 5 for fundamentals 3
+
+**finish number 5 link one
+
+### Day 37: Feb 5, Monday (% complete: 72)
+
+**Today's Progress**: working on number 5 for fundamentals 3
+
+**start number 5 link two
 **Thoughts**
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
