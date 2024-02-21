@@ -270,6 +270,18 @@ Didn't start the exercise
 
 **finish link for arrow functions
 
+### Day 38: Feb 19, Monday (% complete: 75)
+
+**Today's Progress**: finished last assignment for fundamentals 3 
+
+**finish link for arrow functions
+
+### Day 37: Feb 20, Tuesday (% complete: 75)
+
+**Today's Progress**: started problem solving lesson
+
+**
+
 **Thoughts**
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
