@@ -296,6 +296,7 @@ Didn't start the exercise
 **Today's Progress**: finish clean code lesson
 
 **starting node.js installation lesson
+**finish node installation lesson
 
 
 **Thoughts**
