@@ -281,6 +281,16 @@ Didn't start the exercise
 **Today's Progress**: started problem solving lesson
 
 **
+### Day 38: Feb 21, Wednesday (% complete: 75)
+
+**Today's Progress**: started problem solving lesson
+
+**
+### Day 39: Feb 23, Friday (% complete: 81)
+
+**Today's Progress**: finish project rock paper scissors
+
+**
 
 **Thoughts**
 **Link(s) to work**
