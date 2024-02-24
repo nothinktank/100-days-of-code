@@ -291,6 +291,12 @@ Didn't start the exercise
 **Today's Progress**: finish project rock paper scissors
 
 **
+### Day 40: Feb 24, Saturday (% complete: 83)
+
+**Today's Progress**: finish clean code lesson
+
+**starting node.js installation lesson
+
 
 **Thoughts**
 **Link(s) to work**
