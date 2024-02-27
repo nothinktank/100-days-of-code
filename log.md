@@ -298,6 +298,17 @@ Didn't start the exercise
 **starting node.js installation lesson
 **finish node installation lesson
 
+### Day 41: Feb 26, Monday (% complete: 85)
+
+**Today's Progress**: Started array lesson
+
+**
+
+### Day 42: Feb 27, Tuesday (% complete: 85)
+
+**Today's Progress**: working on array lesson
+
+**
 
 **Thoughts**
 **Link(s) to work**
