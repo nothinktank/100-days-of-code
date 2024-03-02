@@ -310,6 +310,18 @@ Didn't start the exercise
 
 **
 
+### Day 43: Mar 1, Friday (% complete: 85)
+
+**Today's Progress**: working on array lesson
+
+**finish Array section points 1-3
+
+### Day 44: Mar 2, Saturday (% complete: 85)
+
+**Today's Progress**: working on array lesson
+
+**work on Loop, learning for (of) and for loops and work on examples
+
 **Thoughts**
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
