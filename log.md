@@ -322,6 +322,12 @@ Didn't start the exercise
 
 **work on Loop, learning for (of) and for loops and work on examples
 
+### Day 45: Mar 3, Sunday (% complete: 85)
+
+**Today's Progress**: working on array lesson
+
+**work on loop with continue, where it skips to the next iteration
+
 **Thoughts**
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
