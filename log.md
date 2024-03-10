@@ -328,6 +328,18 @@ Didn't start the exercise
 
 **work on loop with continue, where it skips to the next iteration
 
+### Day 46: Mar 4, Monday (% complete: 85)
+
+**Today's Progress**: working on array lesson
+
+**finish countdown with timer
+
+### Day 45: Mar 10, Sunday (% complete: 85)
+
+**Today's Progress**: working on array lesson
+
+**finish guestlist with admission and omission and modify end with period for each case
+
 **Thoughts**
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
