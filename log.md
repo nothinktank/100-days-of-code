@@ -340,6 +340,26 @@ Didn't start the exercise
 
 **finish guestlist with admission and omission and modify end with period for each case
 
+### Day 46: Mar 18, Monday (% complete: 85)
+
+**Today's Progress**: working on array loop lesson
+
+**start loops number 1
+
+### Day 47: Mar 19, Tuesday (% complete: 85)
+
+**Today's Progress**: finish loops 1
+
+### Day 48: Mar 20, Wednesday (% complete: 85)
+
+**Today's Progress**: working on array loop lesson 2
+
+**start reading second bullet link 
+
+
+**finish guestlist with admission and omission and modify end with period for each case
+
+
 **Thoughts**
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
