@@ -356,6 +356,12 @@ Didn't start the exercise
 
 **start reading second bullet link 
 
+### Day 49: Mar 24, Sunday (% complete: 85)
+
+**Today's Progress**: working on array loop lesson 2
+
+**finish loop 2 second bullet, the loop to find all prime up to n
+
 
 **finish guestlist with admission and omission and modify end with period for each case
 
