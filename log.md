@@ -363,8 +363,23 @@ Didn't start the exercise
 **finish loop 2 second bullet, the loop to find all prime up to n
 
 
-**finish guestlist with admission and omission and modify end with period for each case
+### Day 50: Mar 25, Monday (% complete: 85)
 
+**Today's Progress**: finish Loop and start test driven development
+
+**start assignment set up
+
+### Day 51: Mar 26, Tuesday (% complete: 85)
+
+**Today's Progress**: finish Loop and start test driven development
+
+**finish assignment #3
+
+### Day 52: Mar 27, Wednesday (% complete: 85)
+
+**Today's Progress**: finish Loop and start test driven development
+
+**finish assignment #
 
 **Thoughts**
 **Link(s) to work**
