@@ -381,6 +381,18 @@ Didn't start the exercise
 
 **finish assignment #
 
+### Day 53: April 1, Monday (% complete: 87)
+
+**Today's Progress**: finish Loop and start test driven development
+
+**finish all assignment 
+
+### Day 54: April 2, Tuesday (% complete: 87)
+
+**Today's Progress**: start DOM manipulation assignments
+
+**
+
 **Thoughts**
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
