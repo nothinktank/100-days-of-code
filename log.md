@@ -389,7 +389,13 @@ Didn't start the exercise
 
 ### Day 54: April 2, Tuesday (% complete: 87)
 
-**Today's Progress**: start DOM manipulation assignments
+**Today's Progress**: start DOM manipulation lesson
+
+**
+
+### Day 55: April 7, Sunday (% complete: 87)
+
+**Today's Progress**: DOM manipulation lessons
 
 **
 
