@@ -403,6 +403,11 @@ Didn't start the exercise
 **Today's Progress**: DOM manipulation lessons
 
 **start assignment, stuck on custom events.
+### Day 57: April 28, Sunday (% complete: 87)
+
+**Today's Progress**: DOM manipulation and events lessons
+
+**started on additional resources, but got bored and couldnt finish, should come back to it later
 **Thoughts**
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
