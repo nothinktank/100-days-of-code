@@ -413,7 +413,7 @@ Didn't start the exercise
 **Today's Progress**: started RPS project updating UI
 
 **
-### Day 59: May 2, Thursday (% complete: 87)
+### Day 59: May 2, Thursday (% complete: 91)
 
 **Today's Progress**: finish RPS project UI updates
 
