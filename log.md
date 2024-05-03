@@ -408,6 +408,16 @@ Didn't start the exercise
 **Today's Progress**: DOM manipulation and events lessons
 
 **started on additional resources, but got bored and couldnt finish, should come back to it later
+### Day 58: May 1, Wednesday (% complete: 87)
+
+**Today's Progress**: started RPS project updating UI
+
+**
+### Day 59: May 2, Thursday (% complete: 87)
+
+**Today's Progress**: finish RPS project UI updates
+
+**
 **Thoughts**
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
