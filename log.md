@@ -418,6 +418,22 @@ Didn't start the exercise
 **Today's Progress**: finish RPS project UI updates
 
 **
+
+### Day 60: May 7, Tuesday (% complete: 91)
+
+**Today's Progress**: started etch a sketch project
+
+**
+### Day 61: May 8, Wednesday (% complete: 91)
+
+**Today's Progress**: fix the rebuild grid and sizing bug
+
+**
+### Day 62: May 9, Thursday (% complete: 91)
+
+**Today's Progress**: 
+
+**
 **Thoughts**
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
